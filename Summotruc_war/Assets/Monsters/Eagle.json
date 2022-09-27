@@ -1,0 +1,35 @@
+{
+    "name": "Eagle",
+    "image": "Eagle.png",
+    "hp": 14,
+    "atk": 1.6,
+    "def": 1.4,
+    "spe": 1.15,
+    "spd": 10,
+    "crR": 15,
+    "crF": 1.5,
+    "types": [ "air" ],
+    "moves": [
+      {
+        "id": 1,
+        "name": "Scratch",
+        "dmg": 4,
+        "type": "normal",
+        "style": "physical"
+      },
+      {
+        "id": 2,
+        "name": "Gust",
+        "dmg": 7,
+        "type": "air",
+        "style": "special"
+      },
+      {
+        "id": 3,
+        "name": "Aerial ace",
+        "dmg": 5,
+        "type": "air",
+        "style": "physical"
+      }
+    ]
+  }

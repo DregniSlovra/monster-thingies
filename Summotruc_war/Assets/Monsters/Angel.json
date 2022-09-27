@@ -1,0 +1,35 @@
+{
+    "name": "Angel",
+    "image": "Angel.png",
+    "hp": 10,
+    "atk": 1.5,
+    "def": 1.3,
+    "spe": 1.8,
+    "spd": 5,
+    "crR": 15,
+    "crF": 1.5,
+    "types": [ "light" ],
+    "moves": [
+      {
+        "id": 1,
+        "name": "Touch",
+        "dmg": 3,
+        "type": "light",
+        "style": "physical"
+      },
+      {
+        "id": 2,
+        "name": "Gaze",
+        "dmg": 6,
+        "type": "light",
+        "style": "special"
+      },
+      {
+        "id": 3,
+        "name": "Beauty",
+        "dmg": 7,
+        "type": "light",
+        "style": "special"
+      }
+    ]
+  }

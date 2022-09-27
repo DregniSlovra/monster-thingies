@@ -1,0 +1,35 @@
+{
+  "name": "Ent",
+  "image": "Ent.png",
+  "hp": 20,
+  "atk": 1.3,
+  "def": 1.7,
+  "spe": 1.25,
+  "spd": 5,
+  "crR": 15,
+  "crF": 1.5,
+  "types": [ "plant" ],
+  "moves": [
+    {
+      "id": 1,
+      "name": "Tackle",
+      "dmg": 5,
+      "type": "normal",
+      "style": "physical"
+    },
+    {
+      "id": 2,
+      "name": "Leaf throw",
+      "dmg": 4,
+      "type": "plant",
+      "style": "special"
+    },
+    {
+      "id": 3,
+      "name": "Trunk slam",
+      "dmg": 8,
+      "type": "plant",
+      "style": "physical"
+    }
+  ]
+}

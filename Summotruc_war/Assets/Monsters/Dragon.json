@@ -1,0 +1,35 @@
+{
+  "name": "Dragon",
+  "image": "Dragon.png",
+  "hp": 15,
+  "atk": 1.5,
+  "def": 1.5,
+  "spe": 1,
+  "spd": 10,
+  "crR": 15,
+  "crF": 1.5,
+  "types": [ "fire" ],
+  "moves": [
+    {
+      "id": 1,
+      "name": "Scratch",
+      "dmg": 4,
+      "type": "normal",
+      "style": "physical"
+    },
+    {
+      "id": 2,
+      "name": "Scorching breath",
+      "dmg": 7,
+      "type": "fire",
+      "style": "special"
+    },
+    {
+      "id": 3,
+      "name": "Fire claw",
+      "dmg": 5,
+      "type": "fire",
+      "style": "physical"
+    }
+  ]
+}

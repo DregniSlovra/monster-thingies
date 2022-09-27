@@ -1,0 +1,35 @@
+{
+    "name": "Sandworm",
+    "image": "Sandworm.png",
+    "hp": 12,
+    "atk": 1.75,
+    "def": 1.3,
+    "spe": 1.25,
+    "spd": 8,
+    "crR": 15,
+    "crF": 1.5,
+    "types": [ "ground" ],
+    "moves": [
+      {
+        "id": 1,
+        "name": "Tackle",
+        "dmg": 5,
+        "type": "normal",
+        "style": "physical"
+      },
+      {
+        "id": 2,
+        "name": "Earthquake",
+        "dmg": 8,
+        "type": "ground",
+        "style": "special"
+      },
+      {
+        "id": 3,
+        "name": "Slam down",
+        "dmg": 6,
+        "type": "ground",
+        "style": "physical"
+      }
+    ]
+  }

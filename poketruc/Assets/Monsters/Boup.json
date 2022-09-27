@@ -1,0 +1,35 @@
+{
+  "name": "Boup",
+  "image": "Boup.png",
+  "hp": 16,
+  "atk": 1.75,
+  "def": 1.5,
+  "spe": 1.10,
+  "spd": 9,
+  "crR": 15,
+  "crF": 1.5,
+  "types": [ "normal" ],
+  "moves": [
+    {
+      "id": 1,
+      "name": "Slap",
+      "dmg": 4,
+      "type": "normal",
+      "style": "physical"
+    },
+    {
+      "id": 2,
+      "name": "Water gun",
+      "dmg": 6,
+      "type": "water",
+      "style": "special"
+    },
+    {
+      "id": 3,
+      "name": "Empale",
+      "dmg": 6,
+      "type": "normal",
+      "style": "physical"
+    }
+  ]
+}
